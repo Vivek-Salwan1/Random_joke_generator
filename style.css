@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@500;600;800;900&family=Poppins:wght@300;400;500&family=Roboto+Slab:wght@300;400;500;600;800&family=Roboto:ital,wght@0,400;0,500;0,700;1,300&display=swap');
+*{
+margin: 0;
+padding: 0;
+font-family:  'Onest', sans-serif;
+}
+
+body{
+    width: 100vh;
+    height: auto;
+    background: yellow;
+}
+.contentWrapper{
+    width: 50%;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 20%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #00ff84;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 3px 2px 2px black;
+
+}
+
+
+img{
+width: 50px;
+height: 50px;
+
+}
+
+.joke{
+    font-size: 2rem;
+    color: rgb(18 9 249);
+    text-align: center;
+}
+
+.btn{
+margin-top: 10px;
+padding: 4px;
+border-radius: 5%;
+background: #6975ff;
+color: white;
+font-size: 1.2rem;
+cursor: pointer;
+}
+/* footer{
+    display: bottom;
+} */

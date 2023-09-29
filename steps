@@ -1,0 +1,6 @@
+1. make an html css and js files
+2. make box container for jokes 
+3. in box make div for joke and make button for next joke
+4. write css
+5. apply on click listner on button and make function to load next joke 
+6. get api
